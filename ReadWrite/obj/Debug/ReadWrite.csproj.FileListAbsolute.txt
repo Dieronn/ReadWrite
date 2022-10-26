@@ -1,0 +1,11 @@
+C:\Users\psuty\OneDrive\Pulpit\Nauka\inne\ReadWrite\ReadWrite\bin\Debug\ReadWrite.exe.config
+C:\Users\psuty\OneDrive\Pulpit\Nauka\inne\ReadWrite\ReadWrite\bin\Debug\ReadWrite.exe
+C:\Users\psuty\OneDrive\Pulpit\Nauka\inne\ReadWrite\ReadWrite\bin\Debug\ReadWrite.pdb
+C:\Users\psuty\OneDrive\Pulpit\Nauka\inne\ReadWrite\ReadWrite\obj\Debug\ReadWrite.csproj.AssemblyReference.cache
+C:\Users\psuty\OneDrive\Pulpit\Nauka\inne\ReadWrite\ReadWrite\obj\Debug\ReadWrite.csproj.SuggestedBindingRedirects.cache
+C:\Users\psuty\OneDrive\Pulpit\Nauka\inne\ReadWrite\ReadWrite\obj\Debug\ReadWrite.Form1.resources
+C:\Users\psuty\OneDrive\Pulpit\Nauka\inne\ReadWrite\ReadWrite\obj\Debug\ReadWrite.Properties.Resources.resources
+C:\Users\psuty\OneDrive\Pulpit\Nauka\inne\ReadWrite\ReadWrite\obj\Debug\ReadWrite.csproj.GenerateResource.cache
+C:\Users\psuty\OneDrive\Pulpit\Nauka\inne\ReadWrite\ReadWrite\obj\Debug\ReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\psuty\OneDrive\Pulpit\Nauka\inne\ReadWrite\ReadWrite\obj\Debug\ReadWrite.exe
+C:\Users\psuty\OneDrive\Pulpit\Nauka\inne\ReadWrite\ReadWrite\obj\Debug\ReadWrite.pdb
